@@ -1,0 +1,2 @@
+# INTE-MECCA-BANK
+integrate/plug-mobile-gpl3-blueprint" in kingzabadi2020-star/INTE from branch main.
